@@ -1,0 +1,32 @@
+
+	
+	table{
+	font-family:arial,sans-serif;
+	width: 100%;
+	}
+
+	td,th{
+		border : 1px solid #dddddd;
+		/*text-align: left;*/
+		padding: 8px;
+	}
+
+	tr:nth-child(even){ 
+		background-color: #dddddd;
+		 } 
+
+	#header{
+		/*text-align: center;*/
+		font-family:arial,sans-serif;		
+	}
+
+.button {
+    
+    width: 115px;
+    height: 25px;
+    padding: 10px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    line-height: 25px;
+}
